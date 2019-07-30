@@ -1,6 +1,6 @@
 abstract sealed class MemoryType extends Product with Serializable
 
-/*
+/**
  * Variable-length and fixed-length tapes are supported
  */
 object MemoryType
